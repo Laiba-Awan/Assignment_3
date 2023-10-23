@@ -1,70 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
-
-*{
-    font-family: 'Quicksand', sans-serif; 
-    font-size: 1000 !important;
+* {
+  font-family: "Quicksand", sans-serif;
+  font-size: 1000 !important;
 }
-.navbar .navbar-nav .nav-link{
-    color: #fff;
-    font-weight: 500;
+.navbar .navbar-nav .nav-link {
+  color: #fff;
+  font-weight: 500;
 }
-.navbar-brand{
-    font-weight: 700;
+.navbar-brand {
+  font-weight: 700;
 }
-#font{
-    font-size: small;
+#font {
+  font-size: small;
 }
-.root{
-    --themecolor:#788a7c; 
-    --headingcolor:#6c757d;
+.root {
+  --themecolor: #788a7c;
+  --headingcolor: #6c757d;
 }
-.banner{
-    background-image: url(nav-image.jpg);
-    background-position-x: center;
-    background-size: cover;
-    height: 380px;
+.banner {
+  background-image: url(nav-image.jpg);
+  background-position-x: center;
+  background-size: cover;
+  height: 380px;
 }
-#banner-btn{
-    border-radius: 0!important; 
+#banner-btn {
+  border-radius: 0 !important;
 }
-#para{
-    font-size: 20px;
+#para {
+  font-size: 20px;
 }
-.s2-btn{
-    border-radius: 0 !important;
-    width: 350px ;
+.s2-btn {
+  border-radius: 0 !important;
+  width: 350px;
 }
-.bg{
-    background-color: var(--themecolor);
+.bg {
+  background-color: var(--themecolor);
 }
-.hcolor{
-    color: #6ed198;
-    font-weight: 600;
+.hcolor {
+  color: #6ed198;
+  font-weight: 600;
 }
-.h-color{
-    color: var(--headingcolor);
+.h-color {
+  color: var(--headingcolor);
 }
-.Hcolor{
-    color: #cdd3d7;
+.Hcolor {
+  color: #cdd3d7;
 }
-.weight{
-    font-weight: 900;
+.weight {
+  font-weight: 900;
 }
-.carousal{
-    height: 60%;
+.carousal {
+  height: 60%;
 }
-.brdr{
-    border-radius: 0!important;
+.brdr {
+  border-radius: 0 !important;
 }
-.lastclr{
-    color: #6ed198;
+.lastclr {
+  color: #6ed198;
 }
-.F-btn{
-    float: right;
-    background-color: #6ed198!important;
-    border: none !important;
+.F-btn {
+  float: right;
+  background-color: #6ed198 !important;
+  border: none !important;
 }
-.fb{
-    height: 40px;
+.fb {
+  height: 40px;
 }
